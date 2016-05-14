@@ -165,8 +165,9 @@ header {
         width: 100%;
         .header-content-inner {
             h1 {
-                font-weight: 700;
-                text-transform: uppercase;
+                // font-weight: 700;
+                // text-transform: uppercase;
+                font-family: 'Abril Fatface', Georgia, serif, cursive;
                 margin-top: 0;
                 margin-bottom: 0;
             }
@@ -317,8 +318,8 @@ header {
 
 // Contact
 #contact .fa {
-    color: $theme-dark;
-    font-size: 4em;
+    color: $theme-primary;
+    // font-size: 3em;
 }
 
 // Extras
@@ -349,3 +350,7 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+// Custom Styles
+.space-bottom {
+  margin-bottom: 20px;
+}
