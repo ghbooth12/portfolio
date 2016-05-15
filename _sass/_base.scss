@@ -136,6 +136,7 @@ aside {
                     color: darken($theme-primary, 10%);
                 }
             }
+            .fa,
             .nav > li > a,
             .nav > li > a:focus {
                 color: $theme-dark;
@@ -177,7 +178,7 @@ header {
             p {
                 font-weight: 300;
                 color: rgba(white, .7);
-                font-size: 16px;
+                font-size: 18px;
                 margin-bottom: 50px;
             }
         }
@@ -196,7 +197,7 @@ header {
                 margin-left: auto;
                 margin-right: auto;
                 p {
-                    font-size: 18px;
+                    font-size: 22px;
                     max-width: 80%;
                     margin-left: auto;
                     margin-right: auto;
@@ -353,4 +354,26 @@ body {
 // Custom Styles
 .space-bottom {
   margin-bottom: 20px;
+}
+nav ul {
+  padding-top: 15px;
+  list-style: none;
+  display: inline-block;
+  li {
+    display: inline-block;
+  }
+  .fa {
+    font-size: 1.3em;
+  }
+}
+.pre-style {
+  border: none;
+  white-space: pre-wrap;
+  background-color: transparent;
+  font-family: 'Lato', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+#skills ul {
+  list-style: none;
+  font-size: 16px;
 }

@@ -10,8 +10,9 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Creative & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+    <h1>Creative & Hilarious Rails Developer</h1>
+  header_description: >
+    <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.

@@ -4,13 +4,11 @@
       {% if site.theme.header_text %}
       <div class="call-out">
         {{ site.theme.header_text }}
-        <div class="divider"></div>
-        <ul>
-          {% include icons.html %}
-        </ul>
+        <hr>
+        {{ site.theme.header_description }}
       </div>
       {% endif %}
-      <hr>
+
       <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
     </div>
   </div>
