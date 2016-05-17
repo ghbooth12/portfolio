@@ -8,7 +8,7 @@ short-description: Build an analytics service and reporting tool that you can us
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/portfolio/analytics_app.png)
+![]({{ site.baseurl }}/img/portfolio/open_api.png)
 
 ## Explanation
 
