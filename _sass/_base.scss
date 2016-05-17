@@ -257,7 +257,8 @@ header {
                 font-size: 14px;
             }
             .project-name {
-                font-size: 18px;
+                font-family: $font-family-headings;
+                font-size: 21px;
             }
         }
     }
@@ -273,7 +274,7 @@ header {
                     font-size: 16px;
                 }
                 .project-name {
-                    font-size: 22px;
+                    font-size: 25px;
                 }
             }
         }
@@ -367,12 +368,14 @@ nav ul {
   }
 }
 .pre-style {
-  border: none;
+  overflow: visible;
   white-space: pre-wrap;
   background-color: transparent;
+  border: none;
   font-family: 'Lato', Helvetica, Arial, sans-serif;
   font-size: 16px;
 }
+#about ul,
 #skills ul {
   list-style: none;
   font-size: 16px;
