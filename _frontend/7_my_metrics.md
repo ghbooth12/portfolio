@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Wiki App
-thumbnail-path: "img/portfolio/wiki_app.png"
-category: SaaS Wiki
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+title: My Metrics
+thumbnail-path: "img/frontend/my_metrics.png"
+category: D3.js visualization library
+short-description: Build an analytics tracker for the music player app that can track metrics such as song play count, a list of songs played, number of visits to each page, etc.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/portfolio/wiki_app.png)
+![]({{ site.baseurl }}/img/frontend/my_metrics.png)
 
 {:.center}
-[View Full Site](http://wiki-app-ghbooth12.herokuapp.com){:target="\_blank"}
+[View Full Site](https://my-metrics-ghbooth12.herokuapp.com/metrics){:target="\_blank"}
 
 ## Explanation
 

@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Music App
-thumbnail-path: "img/portfolio/music_app.png"
-category: AWS, API
-short-description: Build a production quality app that allows users to discover new musicians and search local concerts.
-
+title: Kele API Client
+thumbnail-path: "img/backend/kele_api.png"
+category: Ruby Gem API
+short-description: Build a Ruby Gem API client to access the Bloc API.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/portfolio/music_app.png)
+![]({{ site.baseurl }}/img/backend/kele_api.png)
 
 {:.center}
-[View Full Site](http://music-app-ghbooth12.herokuapp.com){:target="\_blank"}
+[View GitHub](https://github.com/ghbooth12/kele){:target="\_blank"}
 
 ## Explanation
 

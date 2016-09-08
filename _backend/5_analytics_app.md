@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Todo App
-thumbnail-path: "img/portfolio/todo_app.png"
-category: Rake Automation
-short-description: Build a self-destructing to-do list application.
+title: Analytics App
+thumbnail-path: "img/backend/analytics_app.png"
+category: API Tracking
+short-description: Build an analytics service and reporting tool that you can use with web apps to track user activity and report results.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/portfolio/todo_app.png)
+![]({{ site.baseurl }}/img/backend/analytics_app.png)
 
 {:.center}
-[View Full Site](http://todo-app-ghbooth12.herokuapp.com){:target="\_blank"}
+[View Full Site](http://analytics-app-ghbooth12.herokuapp.com){:target="\_blank"}
 
 ## Explanation
 
