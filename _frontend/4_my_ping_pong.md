@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Analytics App
-thumbnail-path: "img/portfolio/analytics_app.png"
-category: API Tracking
-short-description: Build an analytics service and reporting tool that you can use with web apps to track user activity and report results.
+title: My Ping Pong
+thumbnail-path: "img/frontend/my_ping_pong.png"
+category: JavaScript, HTML5 canvas
+short-description: Build the classic game Pong replica that uses pure JavaScript and the HTML5 canvas element.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/portfolio/analytics_app.png)
+![]({{ site.baseurl }}/img/frontend/my_ping_pong.png)
 
 {:.center}
-[View Full Site](http://analytics-app-ghbooth12.herokuapp.com){:target="\_blank"}
+[View Full Site](https://my-ping-pong-ghbooth12.herokuapp.com/index.html){:target="\_blank"}
 
 ## Explanation
 

@@ -1,9 +1,9 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
   # For production
-# url: "http://gahee.adeptwebdev.com" # the base hostname & protocol for your site
+url: "http://gahee.adeptwebdev.com" # the base hostname & protocol for your site
   # For development
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
+# url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -65,9 +65,13 @@ paginate_path: "blog/page:num"
 
 # COLLECTIONS
 collections:
-  portfolio:
+  backend:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /backend/:path/
+
+  frontend:
+    output: true
+    permalink: /frontend/:path/
 
 # BUILD SETTINGS
 markdown: kramdown

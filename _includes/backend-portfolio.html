@@ -1,7 +1,7 @@
 <section class="no-padding" id="portfolio">
   <div class="container-fluid">
     <div class="row no-gutter">
-      {% for project in site.portfolio %}
+      {% for project in site.backend %}
       <div class="col-lg-4 col-sm-6">
         <a href="{{ project.url | prepend: site.baseurl }}" class="portfolio-box">
           <img src="{{ project.thumbnail-path }}" class="img-responsive" alt="{{ project.title }}">

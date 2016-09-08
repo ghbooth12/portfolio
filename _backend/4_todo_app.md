@@ -1,14 +1,17 @@
 ---
 layout: post
-title: Open API
-thumbnail-path: "img/portfolio/open_api.png"
-category: External API
-short-description: Build an analytics service and reporting tool that you can use with web apps to track user activity and report results.
+title: Todo App
+thumbnail-path: "img/backend/todo_app.png"
+category: Rake Automation
+short-description: Build a self-destructing to-do list application.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/portfolio/open_api.png)
+![]({{ site.baseurl }}/img/backend/todo_app.png)
+
+{:.center}
+[View Full Site](http://todo-app-ghbooth12.herokuapp.com){:target="\_blank"}
 
 ## Explanation
 
