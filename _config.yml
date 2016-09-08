@@ -1,7 +1,9 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
   # For production
-url: "http://gahee.adeptwebdev.com" # the base hostname & protocol for your site
+# url: "http://gahee.adeptwebdev.com" # the base hostname & protocol for your site
+  # For deploying to GitHub
+url: "http://ghbooth12.github.io" # the base hostname & protocol for your site
   # For development
 # url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
 
