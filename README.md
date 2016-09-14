@@ -1,15 +1,5 @@
-# Portfolio Kami Theme
-## Based on Type Theme
+### Portfolio Rails
 
-![Default Type Theme blog](https://bloc-global-assets.s3.amazonaws.com/portfolio/portfolio-kami.png)
+This is my Portfolio that I worked with Rails. If you have any question, please contact me [here](mailto:ghbooth12@gmail.com).
 
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
-
-## Get Started
-
-[Demo](http://madebymunsters.github.io/Lannister/)
-
-[Using Type](https://rohanchandra.github.io/project/type/)
-
-## License
-The MIT License (MIT)
+You can also visit [my website](http://www.adeptwebdev.com).

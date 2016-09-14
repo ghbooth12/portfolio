@@ -8,15 +8,6 @@
   text-align: center;
   color: $text-color;
   background-position:center center;
-  .site-title {
-    display:block;
-    width:100%;
-    a {
-      font-size:0.8em;
-      text-transform: uppercase;
-      color:#d8d8d8;
-    }
-  }
   ul {
     li {
       list-style-type: none;
@@ -30,6 +21,8 @@
   h1 {
     margin-bottom:0.25em;
     display:block;
+    color: #fff;
+  }
   .divider {
     width:80px;
     height:3px;
@@ -120,6 +113,7 @@
       margin-top: 1em;
     }
   }
+
 }
 // Pagination
 .pagination .button {

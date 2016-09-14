@@ -1,17 +1,22 @@
 # SITE CONFIGURATION
-baseurl: "/tester/" # the subpath of your site, e.g. /blog/
-url: "http://ghbooth12.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site
+# url: "http://ghbooth12.github.io" # the base hostname & protocol for your site
+# url: "https://ghbooth12.github.io" # the base hostname & protocol for your site
+
+# TODO: Delete this line
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Gahee Heo Booth # Your name will go here
+  title: Gahee Heo # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Creative & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+    <h1>Creative & Hilarious Rails Developer</h1>
+  header_description: >
+    <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -39,7 +44,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: "UA-77720289-1" # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-77834658-1" # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 
@@ -61,9 +66,13 @@ paginate_path: "blog/page:num"
 
 # COLLECTIONS
 collections:
-  portfolio:
+  backend:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /backend/:path/
+
+  frontend:
+    output: true
+    permalink: /frontend/:path/
 
 # BUILD SETTINGS
 markdown: kramdown
